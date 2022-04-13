@@ -17,7 +17,7 @@ var saniye = 0;
 var reset = 0;
 var dakika = 0;
 var eksi_deneme = 0
-
+    //deneme
 
 function kronometre() {
     start.addEventListener("click", (e) => {
